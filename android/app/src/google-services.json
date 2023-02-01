@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57250839793",
+    "project_id": "flutter-sport-b52c2",
+    "storage_bucket": "flutter-sport-b52c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57250839793:android:e99e3ef7951341b7fbbd50",
+        "android_client_info": {
+          "package_name": "com.example.sport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57250839793-7dl6haasbcnoj5un6123dv9ktvrovub3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEdA2PFEpIp75HwFqbaOZ69dbPsBfehdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57250839793-7dl6haasbcnoj5un6123dv9ktvrovub3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
